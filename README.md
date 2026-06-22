@@ -1,20 +1,18 @@
-<!-- LANGUAGE SWITCHER -->
-<div align="right">
-  <a href="#-english-version"><b>🇺🇸 English</b></a> | 
-  <a href="#-russian-version"><b>🇷🇺 Русский</b></a>
-</div>
+<!-- Language Switcher -->
+<p align="right">
+  <b>🌐 Languages:</b> 
+  <a href="#-readme-en"><b>English</b></a> | 
+  <a href="#-readme-ru"><b>Русский</b></a>
+</p>
 
-<br/>
+<div id="-readme-en"></div>
 
-<!-- ========================================================================================== -->
-<!--                                       ENGLISH VERSION                                      -->
-<!-- ========================================================================================== -->
-<div id="-english-version"></div>
-
+<!-- Выравнивание по центру: приветствие и баннер -->
 <div align="center">
   <h1>👋 Hi there! I'm Marsel</h1>
   <p><b>Backend (Django), Frontend & ML Developer</b></p>
 
+  <!-- Динамическая строка с меняющимся текстом -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=460&lines=Python+Developer;Django+%2F+Fullstack;Data+Science+%2F+Machine+Learning;Game+Dev+on+Pygame" alt="Typing SVG" />
 </div>
 
@@ -22,20 +20,20 @@
 
 ---
 
-## 🏆 Achievements & Awards
-* 🥇 **1st Place** – All-Russian Product Programming Championship (2024)
-* 🥉 **3rd Place** – All-Russian Product Programming Championship (2025)
-* 🏅 **Candidate for Master of Sports (KMS)** in Product Programming
-* 🥈 **Prize-winner** – Regional stage of the All-Russian Olympiad of School Students (VSOSH) in Artificial Intelligence
+## 🏆 Achievements
+* 🥇 **1st Place** – Russian Championship in Product Programming (2024)
+* 🥉 **3rd Place** – Russian Championship in Product Programming (2025)
+* 🎖️ **Candidate for Master of Sports (KMS)** in Product Programming
+* 🥈 **Prize-winner** – All-Russian Olympiad of School Students (VlOSH) in Artificial Intelligence
 * 🥈 **Prize-winner** – National Technological Olympiad (NTO) in Software Engineering in Financial Technologies (PIFT)
-* 🚀 **Finalist** – National Technological Olympiad (NTO) in AI and ABP (Automation of Business Processes)
+* 🏅 **Finalist** – National Technological Olympiad (NTO) in AI and ABP (Automation of Business Processes)
 
 <br/>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-I am deeply passionate about Backend and Frontend development, Data Science, and Machine Learning.
+Deeply interested in Backend and Frontend development, Data Science, and Machine Learning.
 
 ### 💻 Languages & Web Development
 <div align="left">
@@ -86,18 +84,16 @@ I am deeply passionate about Backend and Frontend development, Data Science, and
 
 ---
 
-## 📂 Main Projects
-Aside from my pinned repositories, here is an interactive showcase of my top work:
-
-* 🔬 **[RiskLab](https://github.com/mario12508/RiskLab)** — Investment simulator based on real Moscow Exchange (MOEX) data. Deployed on Render.
-* 🎮 **[Entangled-Tale-pygame-project](https://github.com/mario12508/Entangled-Tale-pygame-project)** — An immersive 2D game built on Pygame with custom lore and complex mechanics.
-* 🏃‍♂️ **Sports Calendars & Hackathons** — Solutions developed during hackathons and automated scheduling systems.
+## 📂 Featured Projects
+* 🔬 **[RiskLab](https://github.com/mario12508/RiskLab)** — Fintech investment simulator driven by real Moscow Exchange (MOEX) data. Deployed on Render.
+* 🎮 **[Entangled-Tale-pygame-project](https://github.com/mario12508/Entangled-Tale-pygame-project)** — An immersive 2D game built with Pygame featuring advanced lore and custom mechanics.
+* 🏃‍♂️ **Hackathons & Schedulers** — Actively participating in competitive programming events and building custom scheduling automation tools.
 
 <br/>
 
 ---
 
-## 📬 Contact Me
+## 📬 Connect with Me
 <div align="left">
   <a href="https://t.me/Mar1o12508" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -107,32 +103,11 @@ Aside from my pinned repositories, here is an interactive showcase of my top wor
 <br/>
 <br/>
 
-<!-- ========================================================================================== -->
-<!--                                       RUSSIAN VERSION                                      -->
-<!-- ========================================================================================== -->
-<div id="-russian-version"></div>
-
+---
 ---
 
-<div align="center">
-  <h1>👋 Привет! Я Марсель</h1>
-  <p><b>Backend (Django), Frontend & ML Разработчик</b></p>
-</div>
+<!-- RUSSIAN VERSION ANCHOR -->
+<div id="-readme-ru"></div>
 
-<br/>
-
-## 🏆 Достижения
-* 🥇 **1 место** – Первенство России по продуктовому программированию (2024)
-* 🥉 **3 место** – Первенство России по продуктовому программированию (2025)
-* 🏅 **КМС** по продуктовому программированию
-* 🥈 **Призер** регионального этапа ВсОШ по Искусственному Интеллекту
-* 🥈 **Призер** Национальной Технологической Олимпиады (НТО) по профилю ПИФТ (Программная инженерия в финансовых технологиях)
-* 🚀 **Финалист** НТО по профилям ИИ и АБП (Автоматизация бизнес-процессов)
-
-<br/>
-
-> *Примечание: Технический стек, проекты и контакты полностью дублируются в англоязычной секции выше.*
-
-<div align="right">
-  <a href="#-english-version">⬆ Наверх к English версии</a>
-</div>
+## 🌐 Русский перевод (В разработке / In Progress)
+*Если ты захочешь добавить полноценное описание на русском, ты можешь скопировать структуру выше и разместить её прямо здесь под этим якорем.*
