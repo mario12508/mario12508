@@ -110,7 +110,7 @@ Deeply interested in Backend and Frontend development, Data Science, and Machine
   <p><b>Backend (Django), Frontend & ML Разработчик</b></p>
 
   <!-- Dynamic Typing SVG (Russian) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=460&lines=Python+разработчик;Django+%2F+Fullstack;Data+Science+%2F+Machine+Learning;Разработка+игр+на+Pygame" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=460&lines=Python+Developer;Django+%2F+Fullstack;Data+Science+%2F+Machine+Learning;Game+Dev+on+Pygame" alt="Typing SVG" />
 </div>
 
 <br/>
