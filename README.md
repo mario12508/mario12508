@@ -86,6 +86,7 @@ Deeply interested in Backend and Frontend development, Data Science, and Machine
 
 ## 📂 Featured Projects
 * 🔬 **[RiskLab](https://github.com/mario12508/RiskLab)** — Fintech investment simulator driven by real Moscow Exchange (MOEX) data. Deployed on Render.
+* 🏆 **[SportCenterFSP](https://github.com/mario12508/SportCenterFSP)** — Comprehensive platform designed for managing and automating competitive product programming tournaments.
 * 🎮 **[Entangled-Tale-pygame-project](https://github.com/mario12508/Entangled-Tale-pygame-project)** — An immersive 2D game built with Pygame featuring advanced lore and custom mechanics.
 * 🏃‍♂️ **Hackathons & Schedulers** — Actively participating in competitive programming events and building custom scheduling automation tools.
 
