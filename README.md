@@ -68,10 +68,10 @@ Deeply interested in Backend and Frontend development, Data Science, and Machine
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-eight.vercel.app/api?username=mario12508&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mario12508&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
       </td>
       <td>
-        <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=mario12508&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="180" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mario12508&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="180" />
       </td>
     </tr>
   </table>
@@ -161,10 +161,10 @@ Deeply interested in Backend and Frontend development, Data Science, and Machine
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-eight.vercel.app/api?username=mario12508&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mario12508&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
       </td>
       <td>
-        <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=mario12508&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="180" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mario12508&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="180" />
       </td>
     </tr>
   </table>
