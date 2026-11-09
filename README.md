@@ -188,7 +188,7 @@ Deeply interested in Backend and Frontend development, Data Science, and Machine
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
-  <img alt="github-snake" src="https://githubusercontent.com" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mario12508/mario12508/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mario12508/mario12508/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mario12508/mario12508/output/github-snake.svg" />
 </picture>
